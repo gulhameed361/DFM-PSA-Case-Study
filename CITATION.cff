@@ -6,6 +6,7 @@ abstract: "Flowsheet model, solver, cache and reference results that reproduce S
 authors:
   - family-names: Hameed
     given-names: Gul
+    orcid: "https://orcid.org/0000-0002-2069-5132"
     affiliation: "School of Chemistry and Chemical Engineering, University of Surrey"
 version: "1.0.0"
 date-released: "2026-10-05"
@@ -23,6 +24,7 @@ references:
     authors:
       - family-names: Hameed
         given-names: Gul
+        orcid: "https://orcid.org/0000-0002-2069-5132"
     institution:
       name: "University of Surrey"
     year: 2026
