@@ -1,5 +1,7 @@
 # DFM-PSA case study: grey-box optimisation of a CO₂-to-methane flowsheet
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23173548.svg)](https://doi.org/10.5281/zenodo.23173548)
+
 This repository reproduces **Section 8.4** of the thesis: the optimisation of a
 power-to-methane flowsheet with the A-TRFu solver. Its parts are a solid oxide
 electrolyser, a dual-function-material (DFM) reactor that captures CO₂ and
@@ -162,7 +164,7 @@ The cache holds every evaluation made by the reported runs (1,695 reactor and
 
 ## Citation
 
-Release 1.0.0 of this repository accompanies G. Hameed, *Rigorous Trust-Region Algorithms for Surrogate-based Grey-box Optimisation*, PhD thesis, University of Surrey, 2026; publications that use later releases are listed here as they appear. Please cite the release you used with the metadata in `CITATION.cff`; each release has its own Zenodo DOI, shown on the repository page.
+Release 1.0.0 of this repository accompanies G. Hameed, *Rigorous Trust-Region Algorithms for Surrogate-based Grey-box Optimisation*, PhD thesis, University of Surrey, 2026; publications that use later releases are listed here as they appear. Please cite the release you used with the metadata in `CITATION.cff`; each release has its own Zenodo DOI. Release 1.0.0: [10.5281/zenodo.23173549](https://doi.org/10.5281/zenodo.23173549); all releases: [10.5281/zenodo.23173548](https://doi.org/10.5281/zenodo.23173548).
 
 ## Cited models
 

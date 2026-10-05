@@ -11,6 +11,15 @@ authors:
 version: "1.0.0"
 date-released: "2026-10-05"
 license: MIT
+doi: "10.5281/zenodo.23173549"
+repository-code: "https://github.com/gulhameed361/DFM-PSA-Case-Study"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23173548"
+    description: "Concept DOI: all releases"
+  - type: doi
+    value: "10.5281/zenodo.23173549"
+    description: "Release 1.0.0"
 keywords:
   - "grey-box optimisation"
   - "power-to-methane"
