@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "DFM-PSA case study: grey-box optimisation of a CO2-to-methane flowsheet with A-TRFu"
+abstract: "Flowsheet model, solver, cache and reference results that reproduce Section 8.4 of the PhD thesis “Rigorous Trust-Region Algorithms for Surrogate-based Grey-box Optimisation”: optimisation of a power-to-methane flowsheet with a dual-function-material reactor and a pressure-swing adsorption unit as truth models."
+authors:
+  - family-names: Hameed
+    given-names: Gul
+    affiliation: "School of Chemistry and Chemical Engineering, University of Surrey"
+version: "1.0.0"
+date-released: "2026-10-05"
+license: MIT
+keywords:
+  - "grey-box optimisation"
+  - "power-to-methane"
+  - "dual-function material"
+  - "pressure-swing adsorption"
+  - "trust-region funnel"
+  - "hypervolume"
+references:
+  - type: thesis
+    title: "Rigorous Trust-Region Algorithms for Surrogate-based Grey-box Optimisation"
+    authors:
+      - family-names: Hameed
+        given-names: Gul
+    institution:
+      name: "University of Surrey"
+    year: 2026
+    thesis-type: "PhD thesis"

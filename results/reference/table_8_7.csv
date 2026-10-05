@@ -1,0 +1,44 @@
+Variable,Unit,Hypervolume off,Hypervolume on
+Hydrogen production: SOEL,,,
+Total capital cost,USD,"68,723,000","76,036,000"
+Operating cost,USD/yr,"6,539,000","7,234,000"
+Electrical load,MW,16.4,18.1
+Hydrogen produced,mol/s,60.6,67.1
+Adsorption-reaction unit: DFM,,,
+Total capital cost,USD,"2,619,000","3,350,000"
+Operating cost,USD/yr,"624,000","828,000"
+Hydrogenation time,s,139,210
+Cycle time,s,289,360
+Feed per channel,cm3/s,15.4,10.4
+Channel diameter,cm,1.25,0.81
+Volume per channel,cm3,6.17,2.60
+Number of channels,-,"975,000","1,437,000"
+Number of blocks,-,9.8,14.4
+Compression and gas cooling,,,
+Compressor capital cost,USD,"1,714,000","2,029,000"
+Compressor operating cost,USD/yr,"309,000","365,000"
+Compressor power,MW,0.35,0.45
+Gas-cooler capital cost,USD,"185,000","214,000"
+Gas-cooler operating cost,USD/yr,"33,000","38,000"
+Heat recovered,MW,0.59,0.75
+Separation: PSA,,,
+Total capital cost,USD,"1,296,000","1,643,000"
+Operating cost,USD/yr,"243,000","309,000"
+Hydrogen fraction of the feed,-,0.865,0.891
+Recycle heating: furnace,,,
+Total capital cost,USD,"209,000","128,000"
+Furnace duty,MW,0.39,0
+Hydrogen supply,,,
+External hydrogen,mol/s,7.8,4.3
+External hydrogen cost (from year 2),USD/yr,"4,473,000","2,447,000"
+Recycled hydrogen,mol/s,63.5,88.7
+Plant performance,,,
+Methane produced,kt/yr,5.34,5.46
+Total capital cost,USD,"74,746,000","83,400,000"
+Total annualised cost,USD/yr,"16,111,000","15,391,000"
+Levelised cost of methane,USD/kg,3.02,2.82
+Levelised cost with hydrogen credit,USD/kg,2.57,2.71
+Algorithm,,,
+Final infeasibility,-,5.2 × 10^-4,3.4 × 10^-3
+Iterations,-,90,64 + 55 (two runs)
+Reactor / PSA simulations,-,217 / 133,343 / 195

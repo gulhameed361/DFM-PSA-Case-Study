@@ -1,0 +1,50 @@
+Delta = 0.00125
+
+variable                move/TR        centre         trial  bound at centre
+H2_external               1.000       4.28777       2.91277  
+total_cycle_time          1.000         360.3       359.513  
+Time_hyd                  1.000         210.3       209.513  
+Di                        1.000      0.814565      0.810565  
+total_channels            1.000       1.43702       1.43452  
+N_blocks_num              1.000       14.3702       14.3452  
+x_H2                      0.866      0.891355      0.890705  
+F_gas                     0.606       10.4383       10.4565  
+x_CH4                     0.520      0.108645      0.109295  
+V_react                   0.327        2.6043       2.57879  
+total_frontal_area        0.198      0.749166      0.740536  
+H2_recycled               0.100       88.6893       89.9453  
+H2_electrolyser           0.095       67.0761        66.945  
+H2O_op                    0.095       67.0761        66.945  
+Q_H2_required             0.008      0.714898      0.725022  
+OPEX_Y2                   0.006       11.2212       10.4199  
+CAPEX_OPEX_H2_EXT         0.006       2.44701       1.66231  
+Profit_H2                 0.004      0.461485   2.04679e-06  
+CAPEX_SOEL                0.001       76.0362       75.8875  
+n_Compressor_out          0.001        109.77       109.706  
+H2_price                  0.000       11.8828       11.8828  
+Q_cooler                  0.000      0.884826      0.884305  
+CH4_price                 0.000       8.13725       8.13725  
+CAPEX                     0.000       4.29197       4.24473  
+Q_recovered               0.000      0.752103      0.751659  
+n_PSA_units               0.000       81.7131        81.672  
+W_comp                    0.000      0.447574      0.447311  
+OPEX_Y1                   0.000       8.77421       8.75759  
+OPEX_SOEL                 0.000       7.23433       7.22019  
+CAPEX_DFM                 0.000        3.3503       3.34047  
+OPEX_DFM                  0.000      0.827517      0.825356  
+LCOCH4                    0.000       2.82133       2.65865  lower
+CAPEX_COMP                0.000        2.0292       2.02836  
+CAPEX_PSA                 0.000       1.64307       1.64224  
+Profit_CH4                0.000       0.15004       0.15068  
+OPEX_PSA                  0.000      0.308657      0.308502  
+OPEX_COMP                 0.000      0.365256      0.365105  
+CAPEX_GC                  0.000      0.213629      0.213554  
+OPEX_GC                   0.000     0.0384533     0.0384397  lower
+DFM_n_total_outlet        0.000     0.0763876     0.0764757  lower
+Q_Furnace                 0.000   1.12091e-05   1.12165e-05  lower
+CAPEX_FURNACE             0.000      0.127692      0.127692  
+OPEX_FURNACE              0.000    4.4388e-06   4.44172e-06  lower
+A                         0.000       63.0538       63.0167  lower
+
+TR bound active (move >= 0.99 of half-width) for 6 of 44 variables: ['H2_external', 'total_cycle_time', 'Time_hyd', 'Di', 'total_channels', 'N_blocks_num']
+At a variable bound at the reported point: ['LCOCH4', 'OPEX_GC', 'DFM_n_total_outlet', 'Q_Furnace', 'OPEX_FURNACE', 'A']

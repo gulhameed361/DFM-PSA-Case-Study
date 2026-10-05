@@ -1,0 +1,16 @@
+name: dfm-psa
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12.12
+  - ipopt=3.14.13
+  - pip
+  - pip:
+      - pyomo==6.10.0
+      - numpy==2.4.2
+      - scipy==1.17.0
+      - pandas==3.0.0
+      - openpyxl==3.1.5
+      - matplotlib==3.10.8
+      - psutil==7.2.2
+      - pyapep==0.1.8
